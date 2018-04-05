@@ -4,7 +4,7 @@ Step-by-step use cases of containers and workflows towards reproducible bioinfor
 ![alt text](generate_flowchart/flowChartImages/stackedPlatesChart.png)
 
 ## Goal
-By the end of this tutorial, the researcher will have a working knowledge of generating reproducible bioinformatics workflows. The demo example in our use case involve a typical quality control and mapping pipeline of RNA-seq data of Sorghum bicolor. 
+By the end of this tutorial, the researcher will have a working knowledge of generating reproducible bioinformatics workflows. The demo example in our use case involve a typical quality control and mapping pipeline of sequencing data from the organism, Sorghum bicolor. 
 
 ## Example workflow for the use cases
 ![alt text](generate_flowchart/flowChartImages/MainFlowChart.png)
